@@ -1,0 +1,3 @@
+[Summer,img\photo27570955073.jpg,songs\Summer,3] 
+[jkjkj,img\c.jpg,songs\jkjkj,1] 
+[,ss,img\c.jpg,songs\ss,1,] 
